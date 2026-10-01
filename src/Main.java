@@ -1,5 +1,6 @@
 // TODO: musimy dodać brakujące klasy!!!!!!!!!!1111!11!!!!!!
 
+// Okej, ja dodam 'Adder' a s##### doda 'Subtractor'.
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
