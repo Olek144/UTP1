@@ -1,3 +1,5 @@
+// TODO: musimy dodać brakujące klasy!!!!!!!!!!1111!11!!!!!!
+
 public class Main {
     public static void main(String[] args) {
         Adder adder = new Adder();
